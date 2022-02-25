@@ -1,0 +1,1 @@
+rd /s d:\$Recycle.Bin
